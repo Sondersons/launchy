@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="14" />
+        android:targetSdkVersion="19" />
 
     <!-- For custom voice command showing up in the Ok, Glass menu -->
     <uses-permission android:name="com.google.android.glass.permission.DEVELOPMENT" />
